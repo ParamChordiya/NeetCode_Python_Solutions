@@ -1,7 +1,5 @@
 # NeetCode Python Solutions
 
-![LeetCode Logo](https://leetcode.com/static/images/LeetCode_logo.png)
-
 This repository contains Python solutions for various NeetCode problems. 
 
 
