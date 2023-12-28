@@ -20,8 +20,7 @@ LeetCode is a platform that provides a large collection of coding challenges. Th
 
 Feel free to explore the solutions and use them as a reference while solving LeetCode problems. You can clone the repository using the following command:
 
-```bash
-git clone https://github.com/your-username/leetcode-python-solutions.git    ```
+```bash git clone https://github.com/your-username/leetcode-python-solutions.git    ```
 Folder Structure
 The repository is organized as follows:
 
